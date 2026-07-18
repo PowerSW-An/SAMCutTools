@@ -84,3 +84,7 @@ logs\launcher_child.log
 logs\desktop_runtime.log
 
 ```
+
+## 效果图
+<img width="1482" height="1209" alt="f371e53b6f4215e9559c421b993bad57" src="https://github.com/user-attachments/assets/2179eba9-a64d-4eb0-a59d-ee5ffffac4df" />
+
